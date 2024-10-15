@@ -1,3 +1,8 @@
+#include <time.h>
+#include <limits.h>
 #include <stdio.h>
+#include <stdlib.h>
 
-void imprime(int number);
+void gerar_crescente(int arr[], int size);
+
+void gerar_decrescente(int arr[], int size);
