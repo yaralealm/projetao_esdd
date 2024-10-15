@@ -6,3 +6,5 @@
 void gerar_crescente(int arr[], int size);
 
 void gerar_decrescente(int arr[], int size);
+
+void imprime_vetor(int colecao[], int tamanho); 
